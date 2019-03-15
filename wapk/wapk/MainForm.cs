@@ -21,7 +21,7 @@ namespace wapk
 		public MainForm()
 		{
 			//
-			//Pull request test
+			//Pull request
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
