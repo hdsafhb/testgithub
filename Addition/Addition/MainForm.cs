@@ -31,7 +31,7 @@ namespace Addition
 		}
 		
 		public int sum(int first, int second) {
-			int sum = first + second;
+			int sum = first + 2; //second;
 			return sum;
 		}
 	}
