@@ -2,30 +2,28 @@
  * Created by SharpDevelop.
  * User: Filip
  * Date: 15.03.2019
- * Time: 12:43
+ * Time: 11:04
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
-using System.Windows.Forms;
 
-namespace wapk
+namespace Hello_World
 {
-	/// <summary>
-	/// Class with program entry point.
-	/// </summary>
-	internal sealed class Program
+	class Program
 	{
-		/// <summary>
-		/// Program entry point.
-		/// </summary>
-		[STAThread]
-		private static void Main(string[] args)
+		public static void Main(string[] args)
 		{
-			Application.EnableVisualStyles();
-			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new MainForm());
+			Console.WriteLine("Hello World!");
+						
+			Console.Write("Press any key to continue . . . ");
+			Console.ReadKey(true);
 		}
 		
+		public int add_number(int first, int second) 
+		{
+			int ret = first + second;
+			return ret;
+		}
 	}
 }
