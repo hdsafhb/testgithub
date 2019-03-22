@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Reflection;
 //test
 namespace Addition
 {
@@ -34,6 +35,8 @@ namespace Addition
 		{
 			int sum = first + second;
 			label1.Text = sum.ToString();
+			Version v = Assembly.GetExecutingAssembly().GetName().Version;
+			label2.Text = v.ToString();
 			return sum;
 		}
 	}
