@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 5.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wapk", "Hello_World\wapk.csproj", "{4C2897F7-97D5-4033-92AE-E015747715C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_World", "Hello_World\Hello_World.csproj", "{4C2897F7-97D5-4033-92AE-E015747715C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
