@@ -5,3 +5,12 @@ C:\Users\Filip\Documents\SharpDevelop Projects\Addition\Addition\bin\Debug\NUnit
 C:\Users\Filip\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
 C:\Users\Filip\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.exe
 C:\Users\Filip\Documents\SharpDevelop Projects\Addition\Addition\obj\Debug\Addition.pdb
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\bin\Debug\Addition.exe.config
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\bin\Debug\Addition.exe
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\bin\Debug\Addition.pdb
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\bin\Debug\NUnit.Framework.dll
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\obj\Debug\Addition.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\obj\Debug\Addition.exe
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\obj\Debug\Addition.pdb
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\obj\Debug\Addition.MainForm.resources
+C:\Users\Marcel\Documents\GitHub\testgithub\Addition\Addition\obj\Debug\Addition.csproj.GenerateResource.Cache

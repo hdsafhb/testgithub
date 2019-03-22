@@ -21,5 +21,12 @@ namespace Addition
 			int sum = obj.sum(22,20);
 			Assert.AreEqual(42,sum,"Summe");
 		}
+		[Test]
+		public void TestMethod2()
+		{
+			MainForm obj = new MainForm();
+			int sum = obj.sum(-22,-20);
+			Assert.AreEqual(-42,sum,"Summe");
+		}
 	}
 }

@@ -23,15 +23,17 @@ namespace Addition
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
-			InitializeComponent();
-			
+			InitializeComponent();			
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
+			int sum2 = sum(2,1);
 		}
 		
-		public int sum(int first, int second) {
-			int sum = first + 2; //second;
+		public int sum(int first, int second) 
+		{
+			int sum = first + second;
+			label1.Text = sum.ToString();
 			return sum;
 		}
 	}
