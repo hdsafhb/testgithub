@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Reflection;
-//test
+
 namespace Addition
 {
 	/// <summary>
@@ -20,7 +20,7 @@ namespace Addition
 	public partial class MainForm : Form
 	{
 		public MainForm()
-		{
+		{ //test
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
@@ -28,12 +28,13 @@ namespace Addition
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-			int sum2 = sum(2,1);
+			int sum2 = sum(20,22);
 		}
 		
 		public int sum(int first, int second) 
 		{
 			int sum = first + second;
+			label3.Text = "Die Antwort auf die Frage ist:";
 			label1.Text = sum.ToString();
 			Version v = Assembly.GetExecutingAssembly().GetName().Version;
 			label2.Text = v.ToString();
