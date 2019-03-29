@@ -28,7 +28,7 @@ namespace Addition
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
-			int sum2 = sum(23,22);
+			int sum2 = sum(20,22);
 		}
 		
 		public int sum(int first, int second) 
